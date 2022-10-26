@@ -1,16 +1,21 @@
 # Clinic
 
-<img content-align="center" width="800" height="300" src="https://user-images.githubusercontent.com/83551785/197900692-334d70e4-f617-490c-aa9f-8792ac1cd15b.png">
+<img  width="800" height="300" src="https://user-images.githubusercontent.com/83551785/197900692-334d70e4-f617-490c-aa9f-8792ac1cd15b.png">
 
 The project aims to develop a full-stack responsive website using ASP.NET, targeting a clinic, it will be used to manage daily tasks including:
 1. Book an appointment 
 2. View appointment schedule 
 3. record patients details 
-
+4. Login
+5. Profile
+6. Find doctor and services
 
 <br>
 <h1> Demo </h1>
-<a href="https://udksa-my.sharepoint.com/:v:/g/personal/2180001227_iau_edu_sa/EaMMOFJoqipBlDAmHeXkyhEB4PRS2lT2s7yoidCEDsBQnA?e=3J906j" target="_blank">Demo Video</a>
+
+
+https://user-images.githubusercontent.com/83551785/197906058-8f0dcb32-f62b-467a-a8ec-55b184631a95.mp4
+
 
 <h1> Interfaces </h1>
 
