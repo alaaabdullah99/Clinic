@@ -2,7 +2,8 @@
 
 <img  width="800" height="300" src="https://user-images.githubusercontent.com/83551785/197900692-334d70e4-f617-490c-aa9f-8792ac1cd15b.png">
 
-The project aims to develop a full-stack responsive website using ASP.NET, targeting a clinic, it will be used to manage daily tasks including:
+The project aims to develop a full-stack responsive website targeting a clinic, it will be used to manage the service of booking appointments to become flexible, easy, and simple. using ASP.NET framework, C#, and MySQL
+ which provides the following services:
 1. Book an appointment 
 2. View appointment schedule 
 3. record patients details 
